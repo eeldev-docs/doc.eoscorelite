@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Auth: Account Portal
+# Account Portal
 The EOSCore Lite plugin for Unreal Engine simplifies integration with Epic Online Services (EOS) SDK, including user authentication via the Account Portal method. This summary outlines the process for authenticating users with the Account Portal using the `LoginEos` function.
 
 ## Prerequisites

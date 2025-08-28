@@ -16,7 +16,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/eeldev_icon.png',
+  favicon: 'img/logo.png',
   organizationName: 'eeldev-docs', // Usually your GitHub org/user name.
   projectName: 'doc.eoscorelite', // Usually your repo name.
   plugins: [require.resolve("docusaurus-plugin-image-zoom")],
@@ -60,7 +60,7 @@ const config = {
         title: 'Documentation',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/eeldev_icon.png',
+          src: 'img/logo.png',
         },
         items: [ 
           //{to: '/blog', label: 'Changelogs', position: 'left'},
@@ -73,7 +73,7 @@ const config = {
           },
           */
           { href: 'https://eeldev.com', label: 'eeldev.com' },
-          { href: 'https://www.unrealengine.com/marketplace/slug/af157f773f084ca89036cd7bc03fb416', label: 'Unreal Marketplace' },
+          { href: 'https://www.fab.com/sellers/eelDev', label: 'FAB Marketplace' },
           { href: 'https://www.youtube.com/channel/UC6Rhr_F5BxwfTtcADVPUNYA', label: 'YouTube', position: 'right' },
           { href: 'https://discord.gg/3Yu7pEy', label: 'Discord', position: 'right'},
           { href: 'https://twitter.com/dryeeldev', label: 'Twitter', position: 'right' },

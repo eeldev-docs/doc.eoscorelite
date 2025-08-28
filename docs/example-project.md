@@ -3,4 +3,4 @@ sidebar_position: 3
 ---
 
 # Example Project
-- Example project will be available when the plugin is released on the Fab Marketplace.
+- [Available on Github](https://github.com/eeldev-ue4/EOSLite_Example/releases)
